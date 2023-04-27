@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,100&display=swap');
+#algoritmos {
+    background: url("./img/pexels-karolina-grabowska-4887165.jpg");
+    background-size: cover;
+    background-repeat: none;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    padding: 100px;
+}
+#algoritmos h1 {
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+}
+#algoritmos p {
+    font-size: 20px;
+    color: rgb(105, 52, 228);
+    font-weight: 1000;
+
+}
+#algoritmos button {
+    padding: 12px 40px;
+    font-size: 20px;
+    background: transparent;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 1000;
+    color: rgba(233, 25, 222, 0.897);
+    border: 2px solid rgba(39, 140, 207, 0.466);
+    margin: 20px 10px;
+}
